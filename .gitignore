@@ -2,12 +2,21 @@
 /Lesson2_Reading_buttons_and_controlling_LEDS/.vscode*/
 /Lesson2_Reading_buttons_and_controlling_LEDS/build*/
 /*.rst
-/
+
 /Lesson3_Create_nRF_Connect_App_from_Scratch/.vscode*/
 /Lesson3_Create_nRF_Connect_App_from_Scratch/build*/
-/
+
 /Lesson4_Printing_and_Logging/.vscode*/
 /Lesson4_Printing_and_Logging/build*/
 
 /Lesson5_UART/.vscode*/
 /Lesson5_UART/build*/
+
+/Lesson7_Multithreaded_Applications/.vscode*/
+/Lesson7_Multithreaded_Applications/Exercise1/.vscode*/
+/Lesson7_Multithreaded_Applications/Exercise2/.vscode*/
+/Lesson7_Multithreaded_Applications/Exercise3/.vscode*/
+
+/Lesson7_Multithreaded_Applications/Exercise1/build*/
+/Lesson7_Multithreaded_Applications/Exercise2/build*/
+/Lesson7_Multithreaded_Applications/Exercise3/build*/
